@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\OneToManyDemo"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\OneToOneDemo\src\main\java\com\app\config\AppConfig.java"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\SpringWithHibernate"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\SpringMVCWithORM\src\main\resources\db.properties"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\SpringMVC-03"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\Spring-MVC"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\SpringMVC-01"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\MyApplication"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\MhyFirstApp-01"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\SpringCore-01"/>
+			<item value="C:\Users\MD ZEESHAN\Desktop\springproject\SpringMVC"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.app"/>
+			<item value="com.app.OneToManyDemo"/>
+			<item value="com.app.OneToOneDemo"/>
+		</list>
+		<list key="groupId">
+			<item value="com.app"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringSecurity"/>
+			<item value="SpringSecurity-01"/>
+			<item value="OneToManyDemo"/>
+			<item value="OneToOneDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

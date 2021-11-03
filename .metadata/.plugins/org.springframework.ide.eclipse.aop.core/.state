@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringMVC-01"/>
+<aop-project name="SpringMVC-02"/>
+<aop-project name="SpringMVC-03"/>
+<aop-project name="SpringMVCWithORM"/>
+<aop-project name="SpringSecurity"/>
+<aop-project name="OneToOneDemo"/>
+<aop-project name="Spring-MVC"/>
+<aop-project name="MyApplication"/>
+<aop-project name="SpringWithHibernate"/>
+</aop-reference-model>
